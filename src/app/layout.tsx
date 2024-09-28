@@ -20,6 +20,7 @@ export default function RootLayout({
         className={`antialiased`}
       >
         {children}
+        Footer
       </body>
     </html>
   );
